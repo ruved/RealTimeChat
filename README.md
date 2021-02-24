@@ -1,5 +1,4 @@
-# Socket.Io Real-time Chat App | A MEAN stack based Real Time chat application
-
+# Realtime ChatApp | A MEAN stack based Real Time chat application
 
 ## Description
 Socket.IO Realtime Chat App | A MEAN stack based real time chat application
@@ -24,7 +23,6 @@ NodeJs
 Socket.IO
 NPM
 MongoDB
-
 
 ## Running
 
