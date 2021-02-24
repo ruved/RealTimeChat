@@ -5,12 +5,6 @@
 Socket.IO Realtime Chat App | A MEAN stack based real time chat application
 
 Lot more features to be added soon.
-
-
-## Screen Shots
-
-## ![Screen Shots](./chat.gif?raw=true "Socket.Io Reatltime Chat App")
-
 ## Features
 
 ```
@@ -26,21 +20,11 @@ Lot more features to be added soon.
 ## Prerequisites
 
 Git
-
 NodeJs
-
 Socket.IO
-
 NPM
-
 MongoDB
 
-## Online demo: 
-```
-    1). Go to ("http://socketiochatapp.tk/user/signup") link and signup
-    2). Login @ ("http://socketiochatapp.tk/user/login")
-    3). Chat with group or one-to-one.
-```
 
 ## Running
 
