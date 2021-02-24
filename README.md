@@ -10,7 +10,7 @@ Lot more features to be added soon.
 
 ## Screen Shots
 
-![Screen Shots](./chat.gif?raw=true "Socket.Io Reatltime Chat App")
+## ![Screen Shots](./chat.gif?raw=true "Socket.Io Reatltime Chat App")
 
 ## Features
 
@@ -71,7 +71,7 @@ MongoDB
 ```
 ## Built With
 
-OS : Linux Mint
+OS : Uinux
 
 API Tool : Postman
 
@@ -80,18 +80,6 @@ Editor : Atom.
 ## Version
 
 This is first version 1.
-
-## My other Projects & My portfolio
-[Visit My GitHub Account](https://github.com/vithalreddy "My GitHub Account")
-
-[MEAN SHOP | A MEAN stack based Ecommerce backend and Frontend Project ](https://github.com/vithalreddy/mean-shop-with-rest-api "MEAN SHOP | A MEAN stack based Ecommerce backend and Frontend Project")
-
-
-[English Premier League Club Matches AngularJS SPA App](https://vithalreddy.github.io/angularjs-epl-footaball-spa-app/#/ "English Premier League Club Matches AngularJS SPA App")
-
-[Game Of Thrones - All the data from the universe of Ice And Fire you've ever wanted. | An AngularJS SPA APP](https://vithalreddy.github.io/angularjs-game-of-thrones-anapioficeandfire-spa-app/# "Game Of Thrones - All the data from the universe of Ice And Fire you've ever wanted. | An AngularJS SPA APP")
-
-
 ## Contributors
 
-[Vithalreddy](https://github.com/vithalreddy "My GitHub Account") - [Visit My Blog](https://stackfame.com "Stack FAME")
+[ruved](https://github.com/ruved "My GitHub Account") 
