@@ -6,7 +6,7 @@ Socket.IO Realtime Chat App | A MEAN stack based real time chat application
 
 Lot more features to be added soon.
 
-## [MongoDB Chat Schema](https://stackfame.com/mongodb-chat-schema-mongoose-chat-schema-chat-application)
+// [MongoDB Chat Schema](https://stackfame.com/mongodb-chat-schema-mongoose-chat-schema-chat-application)
 
 ## Screen Shots
 
