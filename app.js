@@ -22,8 +22,8 @@ app.use(logger("dev"));
 
 //db connection
 // const dbPath = "mongodb://localhost/socketChatDB";
-//const dbPath=`mongodb://ruved:ruvedsuleman@socketionodechat.6sipy.mongodb.net/socketionodechatt`;
-const dbPath=`mongodb://localhost:27017/socketionodechat`;
+const dbPath=`mongodb://ruved:ruvedsuleman@socketionodechat.6sipy.mongodb.net/socketionodechatt`;
+//const dbPath=`mongodb://localhost:27017/socketionodechat`;
 mongoose.connect(dbPath, { useNewUrlParser: true ,useUnifiedTopology:true});
 mongoose.connection.once("open", function() {
   console.log("Database Connection Established Successfully.");
